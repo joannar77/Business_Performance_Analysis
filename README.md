@@ -34,4 +34,5 @@ Financial analysis concepts (leverage ratios, profitability metrics).
 
 Data storytelling — combining ratios and risk flags to interpret business health.
 
-Developed using Python (pandas) in Jupyter Notebook. This project is presented as part of my professional portfolio and is not a distributed solution.
+**Developed using Python (pandas) in Jupyter Notebook**
+This project is presented as part of my professional portfolio and is not a distributed solution.
